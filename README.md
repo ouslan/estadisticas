@@ -2,8 +2,8 @@
 
 Indice:
 
-- [Introducción](#introducción)
-- [Objetivos](#objetivos)
+- [Introducción](clase.ipynb#introducción)
+- [Objetivos](clase.ipynb###Recoleccion-de-datos)
 - [Extracción de datos web con Python](#extracción-de-datos-web-con-python)
 - [Procesamiento de datos con Pandas](#procesamiento-de-datos-con-pandas)
 - [Escritura en Jupyter Notebook](#escritura-en-juptyer-notebook)
