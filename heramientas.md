@@ -4,7 +4,7 @@ Para comenzar a trabajar con Python, es necesario tenerlo instalado en tu ordena
 
 # Instalación de Anaconda
 
-Anaconda es una distribución de Python que incluye muchas de las bibliotecas utilizadas en el análisis de datos. Para instalar Anaconda, sigue las instrucciones en el siguiente [enlace](https://www.anaconda.com/products/individual).
+Anaconda es una distribución de Python que incluye muchas de las bibliotecas utilizadas en el análisis de datos. Para instalar Anaconda, sigue las instrucciones en el siguiente [enlace](https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Windows-x86_64.exe).
 
 # Instalación de un IDE
 
